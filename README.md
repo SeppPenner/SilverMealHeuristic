@@ -1,6 +1,6 @@
 # SilverMeal
-SilverMeal is a software to calculate the SilverMeal-Problem: https://de.wikipedia.org/wiki/Silver-Meal_Heuristik
-The assembly was written in Java.
+SilverMeal is an example on how to calculate the SilverMeal-Problem: https://de.wikipedia.org/wiki/Silver-Meal_Heuristik
+The example was written and tested in Java.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/9e4yxcsfu87dx008?svg=true)](https://ci.appveyor.com/project/SeppPenner/silvermealheuristic)
 
