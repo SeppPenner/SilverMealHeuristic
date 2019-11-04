@@ -3,6 +3,10 @@ SilverMeal is an example on how to calculate the SilverMeal-Problem: https://de.
 The example was written and tested in Java.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/9e4yxcsfu87dx008?svg=true)](https://ci.appveyor.com/project/SeppPenner/silvermealheuristic)
+[![GitHub issues](https://img.shields.io/github/issues/SeppPenner/SilverMeal.svg)](https://github.com/SeppPenner/SilverMeal/issues)
+[![GitHub forks](https://img.shields.io/github/forks/SeppPenner/SilverMeal.svg)](https://github.com/SeppPenner/SilverMeal/network)
+[![GitHub stars](https://img.shields.io/github/stars/SeppPenner/SilverMeal.svg)](https://github.com/SeppPenner/SilverMeal/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/SilverMeal/master/License.txt)
 
 ## Basic usage:
 ```java
