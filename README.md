@@ -93,4 +93,4 @@ public class Main {
 Change history
 --------------
 
-* **Version 1.0.0.0 (2017-03-28)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/SilverMeal/blob/master/Changelog.md).
